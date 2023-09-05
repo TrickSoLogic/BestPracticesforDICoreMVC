@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "Hash": "mqmb0M1W6j98XXUvAgZJaNFqIkKXCUoC38JiTnquCrs=",
+  "Source": "BestPracticesforDICoreMVC",
+  "BasePath": "_content/BestPracticesforDICoreMVC",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [
+    {
+      "Name": "BestPracticesforDICoreMVC\\wwwroot",
+      "Source": "BestPracticesforDICoreMVC",
+      "ContentRoot": "D:\\My Works\\AspNetCore 6 & 7 By TrickSoLogic\\11. Dependency Injection\\11. Best Practices for DI\\DIExample\\wwwroot\\",
+      "BasePath": "_content/BestPracticesforDICoreMVC",
+      "Pattern": "**"
+    }
+  ],
+  "Assets": [
+    {
+      "Identity": "D:\\My Works\\AspNetCore 6 & 7 By TrickSoLogic\\11. Dependency Injection\\11. Best Practices for DI\\DIExample\\wwwroot\\StyleSheet.css",
+      "SourceId": "BestPracticesforDICoreMVC",
+      "SourceType": "Discovered",
+      "ContentRoot": "D:\\My Works\\AspNetCore 6 & 7 By TrickSoLogic\\11. Dependency Injection\\11. Best Practices for DI\\DIExample\\wwwroot\\",
+      "BasePath": "_content/BestPracticesforDICoreMVC",
+      "RelativePath": "StyleSheet.css",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\StyleSheet.css"
+    }
+  ]
+}
